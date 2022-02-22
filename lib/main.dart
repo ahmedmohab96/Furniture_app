@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:furniture_app/constants.dart';
+import 'package:furniture_app/screens/product/components/category_list.dart';
 import 'package:furniture_app/screens/product/products_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
